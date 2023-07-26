@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">00-HelloWorld</string>
+    <string name="MainActionText">Hello World!\nHello Android</string>
+</resources>
